@@ -1,4 +1,4 @@
-package enums;
+package hw201214.enums;
 
 /**
  * Created with IntelliJ IDEA.
